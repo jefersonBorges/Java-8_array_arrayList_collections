@@ -1,8 +1,8 @@
-# About
+# 💬 About
 
 These exercises are a practice of Java language inside the discipline of Programming 1, belonging to the course of Computer Engineering.
 
-## content
+## 👨🏽‍💻 Java Content
 
 - OOP
 - Inheritance
@@ -52,6 +52,10 @@ These exercises are a practice of Java language inside the discipline of Program
     - setVisible()
 
 ---
+
+## 🎯 Project Objectives
+
+- Practice of Java language array, arrayList and collections.
 
 ## Java  - 8 - array, arrayList and collections
 
